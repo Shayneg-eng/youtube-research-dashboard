@@ -1,0 +1,1183 @@
+====================================================================================================
+YouTube Videos & Daily Report - Generated 2025-12-29 21:26:30
+Videos from the last 1 day(s) (max 30)
+Transcripts: 6/30
+====================================================================================================
+
+DAILY REPORT
+----------------------------------------------------------------------------------------------------
+
+# COMPETITIVE INTELLIGENCE REPORT: STREET INVESTIGATIVE JOURNALISM
+**For: Nate Friedman | Prepared: Analysis of 24-Hour YouTube Transcript Sample**
+
+---
+
+## RELEVANT CREATORS IDENTIFIED
+
+### 1. NICK SHIRLEY - "Nick Shirley Exposes Somali Fraud"
+
+**CREATOR & VIDEO INFO:**
+- Channel: Nick Shirley
+- Video Title: "Nick Shirley Exposes Somali Fraud"
+- Creator: Nick Shirley (on-camera investigator)
+
+**WHAT THEY COVERED:**
+- Location: Minnesota (specific daycare/autism centers unidentified by address)
+- Investigation: Government fraud at Future Leaders Early Learning Center (received $3M+ in funding) and autism centers receiving government funds
+- Key claims: "autism centers are popping up everywhere as a rise of autism has occurred here in Minnesota because of the government funds that they are receiving"
+- Specific finding: Facilities with zero or unknown child enrollments despite massive public funding
+
+**HOW THEY COVERED IT (Comparison to Nate's Style):**
+
+Shirley's approach mirrors Nate's non-confrontational street technique almost exactly:
+- Uses character ("little Joey") as pretext for institutional access, similar to Nate's undercover methodology
+- Asks naive, open-ended questions: "Can I check out the daycare?" / "Why can't I check out the daycare?"
+- Lets subjects reveal dysfunction through their own contradictions: Staff says "No children" then contradicts themselves moments later ("Yes"/"No" confusion on whether children are present)
+- Doesn't confront directly about fraud; instead asks innocent-seeming questions: "Like more than five?" when staff can't quantify enrollment, then "So, you don't really know?"
+- When confronted about being a reporter, pivots to consumer-angle: "Yeah, cuz we want to make sure we're going to legit business if we're going to bring our son Joey here"
+
+**WHAT NATE CAN LEARN:**
+
+Shirley's technique for exposing institutional dysfunction through documented absences is highly effective. Key exchanges showing this:
+
+1. **The Enrollment Trap:** "No children?" / "No." / "Why are there no children?" / [contradictory response] — This simple back-and-forth creates viral-ready contradiction without confrontation.
+
+2. **The Quantification Failure:** When asked "how many kids do you guys have at this autism center?" staff responds "I can't give you a number now" then "Probably" more than five — this demonstrates institutional chaos better than accusations of fraud.
+
+3. **The Pivot When Caught:** When confronted ("Why are you asking us about the fraud?"), Shirley reframes as concerned parent rather than journalist, de-escalating while maintaining pressure.
+
+**CRITICAL GAP - FUNDING CHAIN NOT EXPLORED:**
+Shirley identifies $3M+ in government funding but never asks: "Which agency funds you?" / "Can you show me the grant documentation?" / "Who approved this facility for licensing?" Nate could push deeper here.
+
+**COMPETITIVE POSITIONING:**
+
+Shirley's weakness: Lacks the organizational network/funding investigation that Nate specializes in. He documents fraud symptoms but not the ecosystem enabling it. Nate could outperform by:
+- Tracing which government agencies fund these centers
+- Identifying nonprofit intermediaries directing funds
+- Finding connections between facility operators and local political figures
+- Asking "Who approves licenses for centers with zero enrollment?"
+
+**ACTIONABLE INTEL FOR NATE:**
+
+- **Topic/Location:** Minnesota autism center/daycare fraud network (appears systematic, not isolated)
+- **Unanswered Questions Nate Should Pursue:**
+  - "What government programs fund these facilities?"
+  - "How do centers get licensed with no documented students?"
+  - "Are there connected operators running multiple empty facilities?"
+- **Claims Needing Fact-Check:**
+  - "Autism centers are popping up everywhere" — appears anecdotal; could Nate verify how many opened in past 3 years?
+  - Causation claim about government funding driving proliferation — correlation vs. causation issue
+
+---
+
+### 2. STATUS COUP / JORDAN CHARITON - "Trump SCREAMED At MTG Over Epstein Files"
+
+**CREATOR & VIDEO INFO:**
+- Channel: Status Coup
+- Creator: Jordan Chariton
+- Video Title: "Trump SCREAMED At MTG Over Epstein Files: 'My Friends Will Get Hurt'"
+
+**WHAT THEY COVERED:**
+- Topic: Trump-MTG private conversation regarding Epstein files release
+- Source: New York Times profile of Marjorie Taylor Greene (unnamed date, described as "today")
+- Key quote from MTG to NYT: "I want to block it to protect my friends"
+- Secondary claim: Trump was "screaming" at MTG about Epstein files, put on speakerphone for office staff to hear
+- Additional detail: MTG met with Epstein victims in closed-door House Oversight Committee hearing (September, year unspecified)
+
+**HOW THEY COVERED IT:**
+
+This is **NOT** street-level investigative work — Chariton is operating as secondary source commentary on a New York Times article. He's:
+- Reading the NYT profile on-camera
+- Adding skeptical commentary: "More on that later because I'm not so sure I actually believe that as far as Trump's actual motives"
+- Quoting MTG's explanation for why she wasn't suspicious of Trump-Epstein connections
+- Using donor testimonials as credibility markers (typical for Status Coup's membership model)
+
+**Critical distinction from Nate's approach:** Chariton is aggregating and commenting on existing reporting, not conducting original street interviews or investigations.
+
+**COMPETITIVE POSITIONING:**
+
+Chariton lacks Nate's on-the-ground methodology. Where Nate lets subjects reveal contradictions through live interview, Chariton is interpreting text and expressing doubt without conducting original reporting. This is a weakness Nate exploits.
+
+---
+
+## SUMMARY ASSESSMENT
+
+**Only Nick Shirley represents direct competition in methodology.** His Minnesota fraud investigation uses Nate's exact playbook: character-based access, naive questioning, letting institutional dysfunction reveal itself, pivoting when confronted.
+
+**Nate's advantages over Shirley:**
+- Deeper organizational/funding network analysis
+- More sophisticated understanding of NGO intermediaries
+- Better equipped for systemic vs. symptomatic investigation
+- Track record with high-profile activist organizations
+
+**Actionable next steps for Nate:**
+1. Identify Nick Shirley's Minnesota sources and beat him to the funding-chain story
+2. Pursue autism center licensing/funding angle with state/federal documentation focus
+3. Monitor Shirley's next investigations for similar topics where Nate can offer systemic depth
+
+====================================================================================================
+
+FULL TRANSCRIPTS
+----------------------------------------------------------------------------------------------------
+
+1. Democracy Now
+   Title: Did Trump's CBP head cover up a murder in 2010?
+   Published: 2025-12-29 20:47
+   URL: https://youtube.com/watch?v=bkR7CbIhPQs
+
+   TRANSCRIPT:
+   Turn now to a documentary called 
+ Critical Incident: Death at the Border. 
+ The film looks at the possible cover up 
+ of the killing of Anastasio Hernandez 
+ Roas, an undocumented Mexican immigrant 
+ fatally beaten by border agents. In 
+ 2010, he was crossing the southern 
+ border in attempt to return to San Diego 
+ where he'd lived for a quarter of a 
+ century to reunite with his wife and 
+ five kids after being deported. He was 
+ stopped by border agents who brutally 
+ beat and tased him while he was 
+ handcuffed until Roas died of heart 
+ failure. 
+ >> At this moment when mass border patrol 
+ agents are in the streets and cities 
+ across America, we know so little about 
+ this secretive and powerful 
+ organization. So this film is uses a 
+ deep dive investigation of this single 
+ killing, the killing of Anastasio as a 
+ way to sort of pull back the veil on the 
+ impunity and violence at the heart of 
+ the patrol. Um so uh Anastasio was 
+ beaten to death in public. Um a the 
+ international uh crim court on human 
+ rights has already determined uh his 
+ death to have been the result of torture 
+ and that there was a cover up afterwards 
+ of the of those crimes. And that was all 
+ presided over by Rodney Scott uh the man 
+ who Trump chose to lead the entire CBP. 
+ Um, you know, this uh in the in the 
+ 100year history of the patrol, hundreds 
+ and you know, and almost certainly 
+ thousands of people have been killed by 
+ the patrol and not a single agent has 
+ ever been successfully prosecuted for an 
+ onduty killing. This is a law 
+ enforcement agency whose day of 
+ reckoning is long overdue. And uh Trump 
+ has taken someone implicated in one of 
+ its most um obvious and clear crimes and 
+ put him in charge of the uh of the 
+ entire CBP.
+
+----------------------------------------------------------------------------------------------------
+
+2. Status Coup Jordan Chariton
+   Title: Trump SCREAMED At MTG Over Epstein Files: "My Friends Will Get Hurt"
+   Published: 2025-12-29 19:15
+   URL: https://youtube.com/watch?v=nMcShpjwSgA
+
+   TRANSCRIPT:
+   Hey, it's Jordan with Status Coup. My 
+ friends will get hurt. That is what 
+ President Trump told Marjgerie [music] 
+ Taylor Green as he screamed at her about 
+ why he was trying so hard to block the 
+ release of the Epstein files. 
+ You could help build the only 
+ independent news outlet always on the 
+ ground with the people for as low as 16 
+ cents a day. 
+ >> Corporate med they've been lying to us 
+ for years and you going straight to the 
+ people. Flint, Michigan, 
+ >> Brooklyn, New York. 
+ >> Government sending one more you to the 
+ residents of Chicago. 
+ >> We need as many independent voices as 
+ possible and that's why what you guys do 
+ is soing important 
+ >> covering what the corporate media covers 
+ up this according to the outgoing 
+ congresswoman uh who did a pretty flashy 
+ profile piece uh with the New York Times 
+ uh that is out today. There's a lot of 
+ uh revelations in there, but uh she 
+ basically said Trump openly told her, "I 
+ want to block it to protect my friends." 
+ More on that later because I'm not so 
+ sure I actually believe that as far as 
+ Trump's actual motives. Uh but this is 
+ what Marjorie Taylor Green uh told the 
+ New York Times uh including that Trump 
+ was screaming at her to the point that 
+ she put it on speakerphone for her whole 
+ office to hear. Uh let me show you 
+ again. This is from a pretty splashy 
+ profile. I was just so naive inside 
+ Marjorie Taylor Green's break with 
+ Trump. Let me get to the part about 
+ Trump uh essentially telling her he was 
+ trying to protect his friends who 
+ apparently are part of a uh pedophilic 
+ global sex trafficking ring. Uh, the 
+ reason for her lack of concern, as Green 
+ explained it to me, might seem 
+ improbable to anyone who is familiar 
+ with how the mainstream press and the 
+ right-wing media cover the same story 
+ differently or not at all. Quote, "The 
+ story to me," she said, was that I'd 
+ seen pictures of Epstein with all these 
+ people, and Trump's just one of several. 
+ And then for me, I'd seen that Bill 
+ Clinton is on the flight logs for his 
+ plane like 20some times. So for people 
+ like me, it wasn't suspicious. And then 
+ we'd heard the general stories of how 
+ Epstein used to be a member of Mara 
+ Lago, but Trump kicked him out. Why 
+ would I think he's done anything wrong, 
+ right? For Green, the decades that 
+ Epstein Epstein spent eluding justice 
+ for exploiting and sexually assaulting 
+ countless girls and young women while 
+ amassing a fortune and the seeming 
+ efforts by the government to cover up 
+ the injustice represents everything 
+ wrong with Washington. This September, 
+ Green spoke with several of Epstein's 
+ victims for the first time in a closed 
+ door house oversight committee meeting. 
+ She knew that the women had paved their 
+ own way to come to Washington. She saw 
+ some of them trembling and crying as 
+ they spoke. Their accounts struck her as 
+ entirely believable. Green herself had 
+ never been sexually abused, but she knew 
+ women who had. In her own small way, she 
+ later told me she could understand what 
+ it was like for a woman to stand up to a 
+ powerful man. After the hearing, Green 
+ held a news conference at which she 
+ threatened to identify some of the men 
+ who had abused the women. Green says she 
+ didn't know th those names herself, but 
+ that she could have gotten them from the 
+ victims. Trump called Green to voice his 
+ displeasure. Green was in her Capitol 
+ Hill office, and according to a staff 
+ member, everyone in the suite of rooms 
+ could hear him yelling at her as she 
+ listened to him on speakerphone. Green 
+ says she expressed her perplexity over 
+ his entrance. According to Green, Trump 
+ replied, quote, "My friends will get 
+ hurt." 
+ My friends will get hurt. Now, 
+ if you study the uh psychology of Donald 
+ Trump's mind, if there is such a way to 
+ study a megalomaniac, narcissist, uh 
+ potential sexual predator predator's 
+ mind. Um, I'm highly dubious that Trump 
+ wanted to block or is trying to block 
+ the release of the Epstein files and 
+ what the releasing uh is clearly 
+ redacting key parts that might show 
+ potential criminal behavior by Trump or 
+ his knowledge of criminal behavior. Uh, 
+ we'll get to the redactions in a bit. 
+ Uh, I'm highly skeptical because if you 
+ know anything about Donald Trump, I grew 
+ up in New York. You know, you heard 
+ about Trump all the time. you read in 
+ the New York Post, you just knew the 
+ only the main friend that Donald Trump 
+ cares about is his best friend. His name 
+ is Donald Trump. And Donald Trump's 
+ doesn't have much loyalty to anyone. I 
+ mean, honestly, I think he would sell 
+ his firstborn child out to protect 
+ himself. So, Donald Trump would be 
+ trying uh with a you know iron fist be 
+ moving mountains to try and block the 
+ release of the Epstein files to protect 
+ his friends. 
+ I mean potentially protect his children 
+ if there was [snorts] I'm not saying 
+ there is but protect his children 
+ perhaps I could believe if there was you 
+ know potential impropriety in there. But 
+ who is Donald Trump so close with that 
+ he would be moving mountains to protect 
+ their identity? Donald Trump has sold 
+ every friend under out. He's thrown 
+ decades worth of friends under the bus. 
+ I mean, go ask his former lawyer and 
+ fixer, Michael Cohen. Uh go there. I 
+ mean, you could fill a whole news 
+ network with scorned Trump friends who 
+ once their util utility and usefulness 
+ was done, he threw them out like 
+ garbage. So, him telling I believe uh 
+ the Cong Congresswoman that he said that 
+ I don't believe that that's the actual 
+ reason he wants to block uh the release 
+ of the Epstein files. And if you've seen 
+ uh videos I've done in recent days, 
+ including one I did yesterday, go check 
+ it out. There is a lot more smoke, I 
+ would say, just from a common sense 
+ perspective over uh as to the uh reports 
+ and narrative that Epstein killed 
+ himself. And as I reported, Epstein's 
+ own brother, Mark, tipped off the FBI in 
+ 2023 that he thought Donald Trump had 
+ basically ordered a hit on Epstein in 
+ prison and Donald Trump had authorized 
+ Epstein's murder, not that he had 
+ committed suicide. These are explosive 
+ explosive scandals, explosive 
+ revelations in the Epstein files, and 
+ the media is barely touching that 
+ particular part about Epstein's quote 
+ unquote suicide. and that Epstein's 
+ brother vows he didn't kill himself. 
+ That renowned forensic pathologist Dr. 
+ Michael Boden observed the autopsy in 
+ 2019 and he found that Epstein's uh 
+ fractures in his neck were more 
+ consistent with homicide, not suicide. 
+ Also, you had a former mafioso who 
+ stayed in that exact prison cell that 
+ Epstein stayed in uh years earlier and 
+ said structurally there was no way for 
+ him to hang himself. There's no way for 
+ anyone to hang themselves in that cell 
+ in that prison. And oh, by the way, you 
+ have uh documents coming out now that 
+ Epstein had uh complained and and 
+ reported that his cellmate tried to kill 
+ him, tried to kill him weeks before he 
+ was found dead of a suicide. Brick by 
+ brick by brick. all of these things. You 
+ know, I don't think it's a conspiracy 
+ theory to to point out facts that it's 
+ highly highly unreliable and dubious 
+ that he killed himself in prison. And 
+ now you have Marjorie Taylor Green 
+ saying Trump openly said to her, "I'm 
+ trying to block it to protect my 
+ friends." 
+ Well, let's look at another one of his 
+ quote friends who uh it seems 
+ efforts are being made to block. This 
+ came out uh in the Epstein files over 
+ the weekend. Uh a photo of Trump 
+ uh excuse me uh a photo of Donald Trump 
+ and Galain Maxwell was redacted after it 
+ was found on Steve Bannon's cell phone. 
+ This is from Julie K. Brown, the Miami 
+ Herald, uh, journalist who broke so much 
+ of the Epstein files. Uh, she wrote, 
+ "Excuse me, this photo of Donald Trump 
+ and Gain Maxwell that was found on Steve 
+ Bannon's cell phone should be made 
+ public. 
+ This is an email from June 11th, 2021. 
+ We don't know who sent the email. I hope 
+ you're well. I'm helping out with the 
+ responsiveness review for WPDW and I've 
+ been looking through Steve Bannon's 
+ iPhone 7 on Celebrate. As I was going 
+ through the images for the phone, I 
+ found an image of Trump and Galain 
+ Maxwell on Bannon's phone. See 
+ screenshots from Celebrate attached. I 
+ discussed with Sunny and we wanted to 
+ flag this for you in case it was of any 
+ importance to you since you were on both 
+ cases. Please let me know if you'd like 
+ anything further done with this. Thanks 
+ so much. 
+ So Steve Bannon's phone had photos of 
+ Donald Trump and Gain Maxwell. Why are 
+ those photos redacted? 
+ What's the context behind those photos? 
+ Where were they taken? When they were 
+ when were they taken? Could they have 
+ been taken in Epstein's mansion in New 
+ York apartment in Paris? Who knows? 
+ Does it have anything to do with why 
+ Gain Maxwell was moved to a essentially 
+ a bed and breakfast prison where she's 
+ getting all sorts of perks after Trump's 
+ former personal lawyer who's now like 
+ deputy attorney general or something 
+ went to interview her and didn't ask one 
+ tough follow-up, didn't ask one tough 
+ question. Forget followup. And then 
+ right after she was moved and he claims, 
+ "Oh, I had nothing to do with it." The 
+ president didn't know about it. Uh-huh. 
+ I mean, if any of these things were 
+ happening while Joe Biden was president 
+ and it pointed to Joe Biden, holy [ __ ] 
+ Fox News would be calling for a public 
+ lynching of Joe Biden. Would be calling 
+ for a public uh lynching or guillotine. 
+ It's mindboggling. Oh, by the way, that 
+ same Julie K. Brown, it came over came 
+ out over the weekend. Again, this is the 
+ journalist that broke most of the 
+ Epstein file story. It's why Epstein 
+ really was convicted in uh 2019. 
+ Does she tweeted, "Does somebody at the 
+ DOJ want to tell me why American 
+ Airlines uh booking information and 
+ flights in July 2019 are part of the 
+ Epstein files attached to a grand jury 
+ subpoena as the flight itinerary, 
+ including my maiden name and I did book 
+ this flight? Why was DOJ monitoring me?" 
+ Huh. July 2019. They're monitoring the 
+ Epstein file investigative journalist. 
+ [snorts] 
+ At the same time, Epstein is convicted 
+ weeks before he's found dead of suicide. 
+ H I'm not shocked they were monitoring 
+ her. I mean, I know much much lower 
+ degree that I've been monitored uh by 
+ Michigan government officials uh related 
+ to my Flint water crisis coverup 
+ reporting. I know that for a fact that 
+ they've monitored me. Uh I was followed 
+ at Standing Rock. So, it's not uncommon 
+ for government to monitor a journalist, 
+ but there it is in print. They were 
+ monitoring her flights activity [snorts] 
+ possibly because they wanted to monitor 
+ who she was with, who she was talking 
+ to. That's just monitoring the plane. We 
+ don't know if there was actual eyes on 
+ her and tracking her vehicle movements, 
+ who she was meeting with, etc. And by 
+ the way, that monitoring was going on 
+ during the first Trump administration. 
+ H 
+ also, we have more evidence of the Trump 
+ DOJ removing 
+ mentions of Trump from the Epstein 
+ files. 
+ This um excuse me, where did the Trump 
+ Epstein files go? Just days ago, 
+ searching Trump returned 600 plus 
+ results. Now 332. 
+ Why did this administration remove files 
+ mentioning Trump again? 
+ Here's another account confirming this. 
+ The first time I searched Trump, there 
+ were over 900 records found. I also 
+ confirmed there are now 332. 
+ And this goes with Congressman Thomas 
+ Massie who along with Congressman Roana 
+ uh has championed and they basically 
+ single-handedly with the help of 
+ survivors forced the release of the 
+ Epstein files by forcing the um 
+ discharge petition uh to force a vote on 
+ this. But he tweeted out AJ Attorney 
+ General Bondi's most egregious violation 
+ of the Epstein Files Transparency Act is 
+ not that she ignores the deadline. it's 
+ that she's redacting names of accused 
+ sex offenders and internal 
+ communications about decisions wrongly 
+ citing old rules that are overridden by 
+ new law. And he points out 
+ the actual text of the Epstein Files 
+ Transparency Act, 
+ redacting uh photos of Trump with Galain 
+ Maxwell, redacting mentions of Trump. Uh 
+ we know that they have removed stuff 
+ that they accidentally released very 
+ quickly after and then publicly said it 
+ was because they were protecting victims 
+ even though there were no victims 
+ included. 
+ I mean 
+ this is the biggest government coverup 
+ potentially ever bigger than Watergate. 
+ I mean, I would say to me the Flint 
+ water crisis cover up is bigger because 
+ it has killed thousands of people, which 
+ I go through in my book, We the 
+ Poisoned, exposing the Flint water 
+ crisis cover up. Uh, and it was more 
+ deadly. 
+ But this cover up might be on a bigger 
+ scale because it's international. 
+ Um, and I'm going to do another video 
+ because [snorts] there seems to be 
+ corporate corporations who have been 
+ protected. Uh, 
+ in my view, probably JP Morgan Chase. 
+ I'm going to do a separate video on 
+ that. 
+ We will stay on it. Please support 
+ status coup for as low as $5 a month. 
+ So, we could stay on uh reporting on 
+ this as well as our on the ground 
+ reporting. We have been all over this 
+ country over the last year. LA, [snorts] 
+ New York City, Alligator Alcatraz in 
+ Florida, Chicago, Charlotte, 
+ Minneapolis, Washington DC covering 
+ Trump's ICE terror campaign, and we want 
+ to stay out on the uh on the ground in 
+ 2026. It's extremely expensive and what 
+ we're one of the only outlets 
+ consistently doing this important on the 
+ ground reporting. statuscude.com/join. 
+ Support us for as low as $5 a month.
+
+----------------------------------------------------------------------------------------------------
+
+3. Nick Shirley
+   Title: Nick Shirley Exposes Somali Fraud
+   Published: 2025-12-29 18:00
+   URL: https://youtube.com/watch?v=e2J-tsBfl-M
+
+   TRANSCRIPT:
+   here at Future Leaders Early Learning 
+ Center. This building received three 
+ million over $3 million. Hello. How are 
+ you? 
+ >> I would like to see if I could bring 
+ little Joey, my son, little Joey here. 
+ Is there a paperwork or can I check out 
+ the daycare? 
+ >> No. 
+ >> Why can't I check out the daycare? 
+ >> She's not here. 
+ >> Okay, but if I can I get paperwork or 
+ anything to submit my son little Joey to 
+ come in here to daycare? 
+ We'd really like to put Joey in this 
+ daycare. We've heard great things. 
+ >> Business card? 
+ >> No, I would like your business card. 
+ Actually, 
+ >> we'll talk to you later. 
+ >> Okay. Can I speak with somebody? 
+ Where where are the children at? 
+ Are there children here today? 
+ >> No. 
+ >> No children? 
+ >> Yes. 
+ >> Why are there no children? Uh, two two 
+ Alex. 
+ >> Would my son little Joey have friends to 
+ play with here? 
+ >> No. 
+ >> No. 
+ >> Yes. 
+ >> No. No friends for little Joey. 
+ >> Yes. Sorry. 
+ >> Dang it. Well, have a great rest of your 
+ day. 
+ >> Thank you. 
+ >> So, little Joey would not be accepted to 
+ that daycare. 
+ >> Joy's still homeless. 
+ >> Joey's still looking for daycare. And 
+ because little Joey couldn't get into a 
+ daycare, we went to an autism center as 
+ they have been popping up everywhere as 
+ a rise of autism has occurred here in 
+ Minnesota because of the government 
+ funds that they are receiving. I tried 
+ to check my son Joey into an autism 
+ center. We've been going to a lot of 
+ these daycare centers. We're trying to 
+ find a spot for our little boy Joey, 
+ >> but uh we thought maybe we could check 
+ him in the autism center 
+ >> cuz none of the daycare centers are 
+ open. Yeah. And how many kids do you 
+ guys have at this autism center? Um 
+ I can't give you a number now. 
+ >> Like more than five? 
+ >> Probably. 
+ >> Probably. So, you don't really know. 
+ >> Yeah. 
+ >> What do you guys think about like the 
+ fraud that's been labeled on the autism 
+ centers here? What What do you guys do 
+ think about the fraud? Or how come the 
+ autism centers are popping up? 
+ >> I can't answer. 
+ >> What news? Are you a news reporter? 
+ >> My name's Nick. We're doing a little 
+ documentary trying to find little Joey a 
+ spot to put himself in one of these 
+ centers here cuz there's 
+ >> So why are you asking us about 
+ >> the fraud and stuff like that? 
+ >> Yeah, cuz we want to make sure we're 
+ going to legit business if we're going 
+ to bring our little boy Joey here. 
+ >> This is not a Jo. 
+ >> Yeah, 
+ >> but that's our number. But this is a we 
+ can't let you guys. 
+ Oh, 
+ >> okay. Thank you. So once again, little 
+ Joey, he can't even go to daycare and 
+ now they won't even accept him if he has 
+ autism. And again, no kids. Couldn't 
+ tell you how many kids they serve. 
+ I know the answer.
+
+----------------------------------------------------------------------------------------------------
+
+4. Middle East Eye
+   Title: Reporter describes Israeli forces advancing on journalists near illegal Houla base in south Lebanon
+   Published: 2025-12-29 17:55
+   URL: https://youtube.com/watch?v=Ixj3UDT5rX8
+
+   TRANSCRIPT:
+   Okay, so I'm in front of a illegal hoola 
+ base and they are screaming at me from 
+ the base. They're screaming in Hebrew 
+ and Arabic and in English. They're 
+ telling us it's a danger and we need to 
+ get away. This is new. Um, this hasn't 
+ happened before. So, it seems maybe like 
+ they got new loudspeakers. 
+ Uh they're definitely doing new 
+ fortifications and the wall is 
+ significantly higher since the last time 
+ that I was here on November 13th. 
+ >> There was coming out. 
+ >> Oh yeah. Oh, 
+
+
+----------------------------------------------------------------------------------------------------
+
+5. Project Veritas
+   Title: Whistleblower EXPOSES Former AG Bill Barr, becomes target of Federal Retaliation. #billbarr #shorts
+   Published: 2025-12-29 16:18
+   URL: https://youtube.com/watch?v=sy55unbUwDQ
+
+   TRANSCRIPT:
+   It's very easy to know why I am being 
+ prosecuted and no one else. It's very 
+ easy. I call the FBI to report Bill Bar 
+ and Armstrong Williams. In my mind, it 
+ is like if the FBI receive the thousands 
+ of documents that I have that I can show 
+ with phone calls, pictures, all these 
+ meetings that we are doing. I thought 
+ they were investigated but no, of course 
+ not. any additional units back to assist 
+ fire for the cardiac arrest 916 Beverly 
+ Drive. 
+ >> I am afraid. I am afraid for my life. He 
+ also tracks my family. If someone has 
+ the balls to put in a writing to go to 
+ kill you, I think the person is able to 
+ definitely kill someone.
+
+----------------------------------------------------------------------------------------------------
+
+6. Democracy Now
+   Title: Cover-Up? New HBO Film Examines 2010 Immigrant Death Under Trump's Current Border Commissioner
+   Published: 2025-12-29 15:38
+   URL: https://youtube.com/watch?v=0V0bkpG9RMM
+
+   TRANSCRIPT:
+   This is democracyow democracynow.org. 
+ I'm Amy Goodman. As CBS cancels a 60inut 
+ segment on the Trump administration's 
+ deportations of hundreds of men, we turn 
+ now to a documentary premiering today on 
+ HBO and HBO Max called Critical 
+ Incident: Death at the Border. The film 
+ looks at the possible cover up of the 
+ killing of Anastasio Hernandez Roas, an 
+ undocumented Mexican immigrant fatally 
+ beaten by border agents. In 2010, he was 
+ crossing the southern border and attempt 
+ to return to San Diego, where he'd lived 
+ for a quarter of a century to reunite 
+ with his wife and five kids after being 
+ deported. He was stopped by border 
+ agents who brutally beat and tased him 
+ while he was handcuffed until Roas died 
+ of heart failure. His death later ruled 
+ a homicide. Rohas's death occurred under 
+ the watch of a man who is now the head 
+ of Customs and Border Protection under 
+ Trump Rodney Scott. At the time of 
+ Anastasio's killing, Scott was deputy 
+ chief of the San Diego sector of the 
+ border patrol. This is the trailer for 
+ Critical Incident. 
+ >> I heard a blood curling scream. 
+ >> Oh my god. 
+ >> In 2010, Anastasia [music] 
+ Ednandez died after being shocked with a 
+ stun gun. 
+ >> When Anastasia was killed, I knew that I 
+ had to look into this. 
+ >> My entire career as a journalist has 
+ been reporting on the border. 
+ >> There was no crime scene investigation. 
+ So, we did not have a clear picture of 
+ everything that occurred there. 
+ >> All of these agents, the way that 
+ they're lined up, are to block the view. 
+ >> It's very hard to come forward to expose 
+ the truth, but when you see things like 
+ Anastasia, 
+ it raises a lot of questions that you 
+ can't ignore. 
+ >> This is a case about [music] impunity at 
+ the border. 
+ >> They are tampering with evidence. 
+ >> We're doing a story on Anastasio 
+ Hernandez. He was an illegal immigrant 
+ and officers [music] were trying to take 
+ back to Mexico. But at the border, 
+ something went wrong. 
+ >> Roger. 
+ >> They took lives and they took hope and 
+ that cannot stand. 
+ Incritical incident. A whistleblower 
+ describes how the Border Patrol 
+ so-called critical incident teams, CITs, 
+ conduct offthebooks investigations when 
+ federal border agents are involved in in 
+ custody deaths, but to evade 
+ accountability. In this film clip, we 
+ hear from the lawyer representing 
+ Anastasio Hernandez Roas's family, Jean 
+ Ardell, who sued to demand justice in 
+ the courts. 
+ I understood that with a civil case like 
+ this against the Border Patrol, 
+ it's like 
+ killing the king. You want to make sure 
+ that you don't miss. 
+ We knew this may be difficult, 
+ but we also knew from the very beginning 
+ that there was something more than this 
+ case because the Border Patrol was 
+ requested to turn over certain evidence 
+ and information [music] and in certain 
+ critical respects they failed to do so. 
+ Earlier this year, the Interamerican 
+ Commission on Human Rights found Customs 
+ and Border Protection agents who fatally 
+ beat Roas are responsible for torture 
+ and called for the investigation into 
+ his death to be reopened. Rojas's case 
+ also drew attention from investigative 
+ journalists like Juan Carlos Frey, who's 
+ also featured in Critical Incident. 
+ I've been a reporter for a long time 
+ and my entire career as a journalist has 
+ been reporting on the border patrol. 
+ So when Anastasia was killed, 
+ I knew that I had to look into this 
+ and I started calling whoever whoever 
+ was responsible, Border Patrol, San 
+ Diego Police Department, and there was 
+ really very little information, 
+ but there were eyewitnesses. 
+ Reporting by John Carlos Frey and others 
+ prompted congressional investigations 
+ that led Customs and Border Protection 
+ to disband the CITs, the Critical 
+ Incident teams in 2022. 
+ Ahead of Critical Incidents premiere 
+ tonight on HBO, we're joined by its 
+ director Rick Rally, an Academy Award 
+ nominated three-time Emmy-winning 
+ director. Rick, welcome back to 
+ Democracy Now. um explain what happened 
+ so many years ago, almost 15 years ago, 
+ and why this matters today. Um if you 
+ can talk about Rodney Scott, who he was 
+ then and who he is today. 
+ >> It sounds It sounds like Rick Rowley has 
+ just lost the connection. He's joining 
+ us from Athens, Greece. Rick Rowley is 
+ the Academy Awardnominated 
+ three-time 
+ Emmy-winning director of the new HBO 
+ documentary film Critical [snorts] 
+ Incident. We're going to see if we can 
+ play another clip right now from the 
+ documentary being aired tonight, 
+ Critical Incident. 
+ >> I think it was around noon. We had heard 
+ something from the news about an in 
+ custody death at the border from the 
+ night before. 
+ Somebody was on life support of Mr. 
+ Anastasio Hernandez. 
+ Normally in a regular homicide 
+ investigation, usually there's a 
+ briefing that occurs right after the 
+ event. Once they know that the death has 
+ occurred or death is imminent, then the 
+ homicide unit will come out. 
+ But in this case, the border patrol 
+ didn't tell us about it. That's Ron 
+ Nquist who is a San Diego police 
+ detective. Rick Rowley, thanks so much 
+ for being with us. We only have a few 
+ minutes. So, first describe what 
+ happened to Anastasio so many years ago, 
+ 15 years ago. Um, and then what Rodney 
+ Scott, a man you interviewed, had to do 
+ with it then and who he is today. 
+ >> Thanks a lot, Amy. It's great to be with 
+ you. Um, you know, I mean, at this 
+ moment when mass border patrol agents 
+ are in the streets and cities across 
+ America, we know so little about this 
+ secretive and powerful organization. So, 
+ this film is uses a deep dive 
+ investigation of this single killing, 
+ the killing of Anastasio, as a way to 
+ sort of pull back the veil on the 
+ impunity and violence at the heart of 
+ the patrol. Um, so, uh, Anastasio was 
+ beaten to death in public. um a uh the 
+ international uh crim uh court on human 
+ rights has already determined uh his 
+ death to have been the result of torture 
+ and that there was a cover up afterwards 
+ of the of those crimes and that was all 
+ presided over by Rodney Scott uh the man 
+ who Trump chose to lead the entire CBP. 
+ Um, you know, this uh in the in the 
+ 100year history of the patrol, hundreds 
+ and uh, you know, and almost certainly 
+ thousands of people have been killed by 
+ the patrol, and not a single agent has 
+ ever been successfully prosecuted for an 
+ onduty killing. The um, uh, James 
+ Tomchek, the former head of internal 
+ affairs for the Border Patrol, who we 
+ interview in the film, estimated that 
+ there was a 10% level of active uh, 
+ corruption inside the patrol. Ron Hosco, 
+ former executive director of the FBI, 
+ heard estimates as high as 20% of the 
+ patrol were actively corrupt. I mean, 
+ those kinds of numbers and that kind of 
+ violence indicate uh an agency that is 
+ in crisis. I mean, this is like the NYPD 
+ before Serpico. It's like the LAPD 
+ before uh Rodney King. This is a law 
+ enforcement agency whose day of 
+ reckoning is long overdue. And uh Trump 
+ has taken someone implicated in one of 
+ its most um obvious and clear crimes and 
+ put him in charge of the uh of the 
+ entire CBP. 
+ >> Uh your reporting on this is incredible 
+ and us also following John Carlos Frey 
+ and how it took years to get the video 
+ uh that showed what happened to 
+ Anastasio. Uh, but if you could tell us 
+ exactly what happened, the people 
+ screaming, what the border agent said 
+ actually happened, that he was hitting 
+ his own head uh against the um against 
+ the road, against the cement, and that 
+ they were trying to save him. 
+ Yes, it is. I mean, in one of the most 
+ chilling kind of moments of the film, we 
+ have the the depositions that the agents 
+ and officers who were on the scene gave 
+ uh for the civil trial in which they uh 
+ this is before the video had been 
+ released, before you know we had an 
+ actual image of what happened in which 
+ they described this completely 
+ impossible situation where Anastasia was 
+ rolling on the ground like a crocodile, 
+ that he was banging his own head on the 
+ ground uh and that they were trying to 
+ save him and help him uh before he his 
+ heart stopped beating because they were 
+ tasing and beating him to death. What 
+ what really happened was Anastasia was 
+ tortured and beaten to death in public 
+ at one of the most one of the busiest uh 
+ border crossings in the world where 
+ hundreds of people were on a pedestrian 
+ bridge at that time of night uh directly 
+ looking down at what was happening 
+ there. Um, and the the problems with the 
+ investigation begin uh be while 
+ Anastasia was still alive. Border Patrol 
+ agents uh were deleting cell phone video 
+ that people were taking. They were 
+ destroying evidence of the crimes. Uh 
+ they were intimidating and dispersing 
+ witnesses. Uh they did not uh preserve 
+ the crime scene at all. To the contrary, 
+ they got rid of witnesses and didn't 
+ take down their contact information. So 
+ it was uh when the police showed up, 
+ they couldn't um uh it was very 
+ difficult for them to reconstruct what 
+ happened. They the border patrol Ron 
+ Nquis told us uh didn't even inform them 
+ of the incident. They were called by a 
+ local uh TV reporter uh and that was how 
+ they discovered what happened and began 
+ their investigation. Then uh they failed 
+ to produce evidence. Um there were 
+ multiple uh security cameras there that 
+ they failed to provide surveillance 
+ video for uh and then ultimately said it 
+ didn't exist or it had uh been 
+ destroyed. Um uh and you know it just 
+ all the way through this process uh 
+ there was obstruction. So, uh, James 
+ Tomche in one of the, you know, most 
+ damning, um, statements in the film, uh, 
+ says that he was specifically ordered by 
+ the deputy chief of the border patrol to 
+ falsify reports about the killing of 
+ Anastasio. Um, so this really it was a 
+ killing and a cover up that went 
+ absolutely to the top of the 
+ organization and implicated the entire 
+ chain of command. And can you tell us 
+ again the role of Rodney Scott, border 
+ patrol chief during the Obama 
+ administration, now the VP commissioner 
+ under Trump. Um what he said to you 
+ about Anastasio's death. 
+ >> Yeah. So uh we have a a long interview 
+ with Rodney Scott uh that's woven 
+ through the film. So he was deputy chief 
+ of San Diego sector during the entire 
+ Anastasio during Anastasia's killing and 
+ the and the beginnings of the cover up. 
+ His signature is on some of the well on 
+ a subpoena that was filed by the border 
+ patrol to take uh Anastasio's medical 
+ records before they could be given to 
+ the the uh police department. Um he also 
+ uh the you know one of the things that 
+ our reporting and investigation around 
+ this film revealed was the existence of 
+ these critical incident teams these 
+ offthe-books investigative teams that 
+ report directly to outside of the normal 
+ chain of command report directly to 
+ sector leadership which would have been 
+ at that time Rodney Scott among others. 
+ So he uh knew about this case and you 
+ know he um he has the details of the 
+ case fresh in his mind when we talk to 
+ him you know uh many many years later in 
+ in this film. Um and you know I mean he 
+ says uh he says he denies many things 
+ and he contests many things but you know 
+ he's on camera um kind of you know 
+ talking about this and being forced to 
+ address this I think you know maybe for 
+ the first time. 
+ >> Thanks for watching Democracy Now on 
+ YouTube. Subscribe to the channel and 
+ turn on notifications to make sure you 
+ never miss a video. And for more of our 
+ audience supported journalism, go to 
+ democracynow.org or where you can 
+ download our news app, sign up for our 
+ newsletter, subscribe to the daily 
+ podcast, and so much
+
+----------------------------------------------------------------------------------------------------
+
+7. Ford Fischer News2Share
+   Title: News2Share 2025 Year-in-review
+   Published: 2025-12-29 14:30
+   URL: https://youtube.com/watch?v=R1rcrLviyaI
+
+----------------------------------------------------------------------------------------------------
+
+8. Ben Norton
+   Title: The US backed a coup in this country to hurt China & help Israel
+   Published: 2025-12-29 13:01
+   URL: https://youtube.com/watch?v=XhV7wRi8yYM
+
+----------------------------------------------------------------------------------------------------
+
+9. Middle East Eye
+   Title: Israeli soldier filmed forcing Palestinian amputee to the ground
+   Published: 2025-12-29 06:53
+   URL: https://youtube.com/watch?v=wQ55Tp7piCU
+
+----------------------------------------------------------------------------------------------------
+
+10. Middle East Eye
+   Title: London activists protest UAE support for Israel
+   Published: 2025-12-29 05:07
+   URL: https://youtube.com/watch?v=p4h9_foMEy8
+
+----------------------------------------------------------------------------------------------------
+
+11. Nick Shirley
+   Title: I exposed the $1.99M Fraudulent Quality “Learing” Daycare
+   Published: 2025-12-29 05:07
+   URL: https://youtube.com/watch?v=fI2YKUD6N3o
+
+----------------------------------------------------------------------------------------------------
+
+12. Drew Hernandez
+   Title: Somali Money Scam Operations Exposed In Multiple States? | Drew Hernandez
+   Published: 2025-12-29 03:22
+   URL: https://youtube.com/watch?v=9zstUZ5VDZg
+
+----------------------------------------------------------------------------------------------------
+
+13. Savannah Hernandez
+   Title: Mass Deportation Policy: Enacting Change for Border Security #shorts
+   Published: 2025-12-30 00:51
+   URL: https://youtube.com/watch?v=XcG3cNku740
+
+----------------------------------------------------------------------------------------------------
+
+14. Middle East Eye
+   Title: Protests erupt in Somalia as Somaliland celebrates Israel recognition
+   Published: 2025-12-29 16:48
+   URL: https://youtube.com/watch?v=aoFWKci5st4
+
+----------------------------------------------------------------------------------------------------
+
+15. Middle East Eye
+   Title: Protests erupt across multiple Syrian cities following Homs mosque bombing
+   Published: 2025-12-29 15:15
+   URL: https://youtube.com/watch?v=lShEqAA1U9s
+
+----------------------------------------------------------------------------------------------------
+
+16. Middle East Eye
+   Title: Miss Palestine: Why I had to keep proving I was Palestinian | Nadeen Ayoub | Real Talk
+   Published: 2025-12-29 15:06
+   URL: https://youtube.com/watch?v=kT0WULGdEV0
+
+----------------------------------------------------------------------------------------------------
+
+17. Novara Media
+   Title: Asylum Seekers Are Literally Not Allowed to Work
+   Published: 2025-12-29 13:01
+   URL: https://youtube.com/watch?v=zAYLwYT_NoY
+
+----------------------------------------------------------------------------------------------------
+
+18. Novara Media
+   Title: There Will Be A Reckoning Over Gaza
+   Published: 2025-12-29 08:01
+   URL: https://youtube.com/watch?v=mK9zDr4OQ9w
+
+----------------------------------------------------------------------------------------------------
+
+19. Middle East Eye
+   Title: Child journalist reports from flooded Gaza camp
+   Published: 2025-12-29 02:58
+   URL: https://youtube.com/watch?v=eVY3YqUZAFI
+
+----------------------------------------------------------------------------------------------------
+
+20. Status Coup Jordan Chariton
+   Title: Trump Launches LAND STRIKE in Venezuela, Covering Up CORPORATE Epstein Crimes?
+   Published: 2025-12-29 23:08
+   URL: https://youtube.com/watch?v=uKaQyQxpJf8
+
+----------------------------------------------------------------------------------------------------
+
+21. China Insights
+   Title: China’s Anti-Corruption Campaign Is Eating Itself
+   Published: 2025-12-29 19:21
+   URL: https://youtube.com/watch?v=EcGk8S1sp4o
+
+----------------------------------------------------------------------------------------------------
+
+22. Democracy Now
+   Title: What's Behind Trump's Christmas Strikes on Nigeria? Anti-Christian Genocide or Appeasing MAGA Base?
+   Published: 2025-12-29 15:35
+   URL: https://youtube.com/watch?v=wVf1XiYLbls
+
+----------------------------------------------------------------------------------------------------
+
+23. Middle East Eye
+   Title: Archival video features Abu Obaida, killed by Israel in August, in 2005
+   Published: 2025-12-30 00:07
+   URL: https://youtube.com/watch?v=kdIIoSDaJsg
+
+----------------------------------------------------------------------------------------------------
+
+24. Middle East Eye
+   Title: Alawite protests following mosque bombing in Syria turn violent
+   Published: 2025-12-29 22:16
+   URL: https://youtube.com/watch?v=DHLEQbpkL4s
+
+----------------------------------------------------------------------------------------------------
+
+25. Al Jazeera English
+   Title: Ending Palestinian suffering requires dismantling the apartheid system: Miko Peled
+   Published: 2025-12-29 19:07
+   URL: https://youtube.com/watch?v=2rVL_k6AkZ4
+
+----------------------------------------------------------------------------------------------------
+
+26. Al Jazeera English
+   Title: How serious are the sectarian tensions facing Syria? | Inside Story
+   Published: 2025-12-29 18:18
+   URL: https://youtube.com/watch?v=Do5Qr7geHco
+
+----------------------------------------------------------------------------------------------------
+
+27. Al Jazeera English
+   Title: Western support enables Israel’s apartheid, ethnic cleansing, and war crimes: Mustafa Barghouti
+   Published: 2025-12-29 16:56
+   URL: https://youtube.com/watch?v=3fZVXKI-hRg
+
+----------------------------------------------------------------------------------------------------
+
+28. Middle East Eye
+   Title: Hamas reveals new military spokesman, confirms Abu Obeida’s death
+   Published: 2025-12-29 16:38
+   URL: https://youtube.com/watch?v=t1bB7_iQqEE
+
+----------------------------------------------------------------------------------------------------
+
+29. Middle East Eye
+   Title: Miss Palestine: Why I had to keep proving I was Palestinian | Nadeen Ayoub | Real Talk
+   Published: 2025-12-29 15:06
+   URL: https://youtube.com/watch?v=kT0WULGdEV0
+
+----------------------------------------------------------------------------------------------------
+
+30. TRT World
+   Title: Train derailment in southern Mexico kills 13 and injures dozens
+   Published: 2025-12-29 10:11
+   URL: https://youtube.com/watch?v=JSYH1_hGqaU
+
+----------------------------------------------------------------------------------------------------
+
